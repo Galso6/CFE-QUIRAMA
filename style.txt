@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+    <head>
+
+        <meta charset="UTF-8">
+        <title>IGLESIA CFE - QUIRAMA</title>
+
+        <style>
+            p{
+                text-align: center;
+                font-size: 19px;
+            }
+
+
+        </style>
+
+    </head>
+
+    <body>
+
+        <h1 style="text-align: center;">IGLESIA CENTRO DE FE Y ESPERANZA - QUIRAMA</h1>
+
+        <p>Somos una iglesia cristiana de la <strong> Panamericana de Colombia</strong>, que presta sus servicios de acompañamiento, 
+        formación y capacitación espiritual a la comunidad en general. <br>
+
+        Su objeto social es <strong> Predicar el evangelio de Jesucristo a toda la sociedad.</strong></p>
+
+        <H1 style="text-align: center;">MISIÓN Y VISIÓN</H1>
+
+        <P><em><strong>Misión:</strong> Nuestra Misión es cumplir con la Gran comisión encomendada por nuestro Señor.</em> <br><br>
+
+        <strong>Jesucristo en Mateo 28:19-20 “Por tanto, id, y haced discípulos a todas las naciones,
+        bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo; enseñándoles
+        que guarden todas las cosas que os he mandado; y he aquí yo estoy con vosotros
+        todos los días, hasta el fin del mundo. Amén.” </strong><em>comprometidos con un Evangelio
+        Cristo céntrico de transformación, integral, con énfasis en la Evangelización y con
+        proyección a las Naciones.</em></P>
+
+        <p><em><strong>Visión:</strong> Visión en el cumplimiento de la Misión somos una iglesia dinámica, estructurada y
+        reflexiva, sólida en la doctrina <strong>Bíblica</strong>, con un alto concepto de su liderazgo,
+        organizada y transparente, íntegra en sus relaciones interpersonales, abierta a los
+        cambios, que contextualiza su desarrollo a la par del entorno sociocultural para
+        percibir, interpretar y responder a las necesidades espirituales, morales y materiales
+        de la sociedad, a la luz de los principios establecidos en las Sagradas Escrituras.
+        Su doctrina está basada únicamente en la Biblia Cristina.</em>
+        </p>
+
+    </body>
+
+
+</html>
